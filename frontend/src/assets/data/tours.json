@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Manali",
+    "city": "Manali",
+    "address": "Somewhere",
+    "distance": 300,
+    "price": 8000,
+    "maxGroupSize": 25,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Rishikesh",
+    "city": "Rishikesh",
+    "address": "Somewhere",
+    "distance": 400,
+    "price": 5000,
+    "maxGroupSize":12,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaipur",
+    "city": "Jaipur",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 5000,
+    "maxGroupSize": 15,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Goa",
+    "city": "Goa",
+    "address": "Somewhere ",
+    "distance": 500,
+    "price": 12000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kasol",
+    "city": "Kasol",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 6000,
+    "maxGroupSize": 12,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Spiti Valley",
+    "city": "Spiti Valley",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 8000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Dalhousie",
+    "city": "Paris",
+    "address": "Dalhousie",
+    "distance": 500,
+    "price": 4000,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Shimla",
+    "city": "Shimla",
+    "address": "Somewhere ",
+    "distance": 500,
+    "price": 8000,
+    "maxGroupSize": 14,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "mussoorie",
+    "city": "mussoorie",
+    "address": "Somewhere",
+    "distance": 100,
+    "price": 5000,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Haridwar",
+    "city": "Haridwar",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 4000,
+    "maxGroupSize":20,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+
+  
+    {
+      "title": "Kashmir",
+      "city": "Kashmir",
+      "address": "Somewhere",
+      "distance": 600,
+      "price": 8000,
+      "maxGroupSize":10,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img09.jpg",
+      "featured": false
+    },
+    {
+      
+        "title": "Sikkim",
+        "city": "Sikkim",
+        "address": "Somewhere",
+        "distance": 1000,
+        "price": 10000,
+        "maxGroupSize":10,
+        "desc": "this is the description",
+        "reviews": [],
+    
+        "photo": "/tour-images/tour-img09.jpg",
+        "featured": false
+      
+    }
+ ,
+  {
+      
+    "title": "Bir",
+    "city": "Bir",
+    "address": "Somewhere",
+    "distance": 1000,
+    "price": 10000,
+    "maxGroupSize":10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  
+},
+
+
+
+
+{
+      
+  "title": "Ladakh",
+  "city": "Ladakh",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img09.jpg",
+  "featured": false
+
+}
+
+,
+
+{
+      
+  "title": "Dharamshala",
+  "city": "Dharamshala",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img09.jpg",
+  "featured": false
+
+},
+{
+      
+  "title": "Lavasa",
+  "city": "Lavasa",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img09.jpg",
+  "featured": false
+
+}
+,
+{
+      
+  "title": "Shillong",
+  "city": "Shillong",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img09.jpg",
+  "featured": false
+
+}
+ 
+]
